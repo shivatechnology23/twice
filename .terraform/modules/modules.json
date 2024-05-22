@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloudtrail","Source":"./modules/cloudtrail","Dir":""},{"Key":"cloudwatch","Source":"./modules/cloudwatch","Dir":""},{"Key":"dms","Source":"./modules/dms","Dir":""},{"Key":"rds","Source":"./modules/rds","Dir":""}]}
