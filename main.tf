@@ -1,7 +1,7 @@
 provider "aws" {
   region = var.aws_region
 }
-
+ 
 
 module "rds" {
   source = "./modules/rds"
